@@ -57,7 +57,6 @@ line-height: 35px;
 text-align: center;
 color: #2A2A2A;
 `
-
 const BestSeller=() =>{
   return (
     <>
